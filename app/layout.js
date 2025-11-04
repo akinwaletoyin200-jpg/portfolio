@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 
 export const metadata = {
   title: "Esther's Portfolio",
-  description: "Created by Queen 👑",
+  description: "Created by Esther",
 };
 
 export default function RootLayout({ children }) {
